@@ -2,6 +2,31 @@
   text-align: center;
 }
 
+.lis
+{
+  display: inline-block;
+  text-align: left;
+}
+
+.bg{
+  background-color:burlywood;
+  font-family: 'Courier New', Courier, monospace;
+  text-align: center;
+  width:50%;
+  position: absolute;
+  left:25%;
+  top: 15%;
+  border:5px solid black;
+}
+
+.but
+{
+  margin: 10px;
+  border-radius: 25px;
+  background-color: black;
+  color:white
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
