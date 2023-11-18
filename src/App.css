@@ -7,7 +7,11 @@
   display: inline-block;
   text-align: left;
 }
-
+.ico
+{
+  justify-content:end;
+  margin-right: 20px ;
+}
 .bg{
   background-color:burlywood;
   font-family: 'Courier New', Courier, monospace;
